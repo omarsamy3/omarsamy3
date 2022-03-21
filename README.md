@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Omar Samy.
+- 👋 Hi, I’m Omar Samy, A junior software developer.
 - 👀 I’m interested in Programming.
 - 🌱 Now, I'm learning Civil Engineering Informatics.
-- 💞️ I’m looking forward to collaborate on Information technology.
+- 💞️ I’m looking forward to using Information technology in AEC industry.
 - 📫 How to reach me-->
-LinkedIn-->( https://www.linkedin.com/in/omar-samy-4bb33a167?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlmPwUSTyQDqkIgtQlkVoKA%3D%3D)
-
+LinkedIn--> www.linkedin.com/in/omar-samy3
 <!---
 omarsamy3/omarsamy3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
