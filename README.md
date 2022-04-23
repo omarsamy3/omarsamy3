@@ -1,7 +1,6 @@
 # Hi there, I'm Omar Samy [omarsamy3][linkedin] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/omarsamy333?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fomarsamy333&screen_name=omarsamy333)
-[![LinkedIn Follow](https://img.shields.io/linkedin/follow/omarsamy3?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/feed/followers/)
 
 ## I'm a Software Engineer in the AEC Industry!!
 
@@ -18,7 +17,6 @@
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][github]
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][github]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][github]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/mysql-original.svg" style="padding-right:10px;" />][github]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][github]
 
