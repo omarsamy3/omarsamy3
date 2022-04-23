@@ -1,7 +1,7 @@
 # Hi there, I'm Omar Samy [omarsamy3][linkedin] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/omarsamy333?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fomarsamy333&screen_name=omarsamy333)
-[![LinkedIn Follow](https://img.shields.io/LinkedIn/follow/omarsamy3?color=1DA3F1&logo=LinkedIn&style=for-the-badge)](https://LinkedIn.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fomarsamy3&screen_name=omarsamy333)
+[![LinkedIn Follow](https://img.shields.io/LinkedIn/follow/omarsamy3?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://LinkedIn.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fomarsamy3&screen_name=omarsamy333)
 
 ## I'm a Software Engineer in the AEC Industry!!
 
