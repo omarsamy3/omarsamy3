@@ -1,6 +1,7 @@
 # Hi there, I'm Omar Samy [omarsamy3][linkedin] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/omarsamy333?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fomarsamy333&screen_name=omarsamy333)
+[![LinkedIn Follow](https://img.shields.io/LinkedIn/follow/omarsamy3?color=1DA3F1&logo=LinkedIn&style=for-the-badge)](https://LinkedIn.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fomarsamy3&screen_name=omarsamy333)
 
 ## I'm a Software Engineer in the AEC Industry!!
 
@@ -9,23 +10,6 @@
 - 🥅 2022 Goals: Learn more about software engineering
 - ⚡ Fun fact: I love to code, read and play football
 - 😻 Check out the my linkedIn content: [linkedin](https://linkedin.com/in/omarsamy3)
-
-### Connect with me:
-
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 ### Languages and Tools:
 
