@@ -1,8 +1,4 @@
-# Hi there, I'm Omar Samy [omarsamy3][linkedin] 👋
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/omarsamy333?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fomarsamy333&screen_name=omarsamy333)
-
-## I'm a Software Engineer in the AEC Industry!!
+## I'm a Software Engineer in the AEC Industry!!👋
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other software engineers
