@@ -32,7 +32,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
--  Computer Graphics projects (https://github.com/anuraghazra/github-readme-stats)
+-  Computer Graphics projects (https://github.com/omarsamy3/Computer-Graphics)
 -  WebGL(three.js) Application (https://github.com/omarsamy3/Three.js-Application)
 
 <!--END_SECTION:activity-->
