@@ -32,8 +32,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
--  Computer Graphics projects (https://github.com/omarsamy3/Computer-Graphics)
 -  WebGL(three.js) Application (https://github.com/omarsamy3/Three.js-Application)
+-  Computer Graphics projects (https://github.com/omarsamy3/Computer-Graphics)
 
 <!--END_SECTION:activity-->
 
