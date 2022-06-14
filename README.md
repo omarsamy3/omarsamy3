@@ -32,7 +32,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
--  DXF-To-Revit Add-In (https://github.com/omarsamy3/DXF-file-to-Rivet/releases/tag/v1.0)
+-  DXF-To-Revit Add-In ([https://github.com/omarsamy3/DXF-file-to-Rivet/releases/tag/v1.0](https://github.com/omarsamy3/DXF_To_Revit))
 -  WebGL(three.js) Application (https://github.com/omarsamy3/Three.js-Application)
 -  Computer Graphics projects (https://github.com/omarsamy3/Computer-Graphics)
 
