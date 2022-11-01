@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate with other software engineers
 - 🥅 2022 Goals: Learn more about software engineering
 - ⚡ Fun fact: I love to travel, read and play football
-- 😻 Check out the my linkedIn content: [linkedin](https://linkedin.com/in/omarsamy3)
+- 😻 Check out the my linkedIn content:<a href="https://www.linkedin.com/in/terrytangyuan"><img src="imgs/linkedin.svg" alt="LinkedIn"></a> [linkedin](https://linkedin.com/in/omarsamy3)
 
 ### Languages and Tools:
 
