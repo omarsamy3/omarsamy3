@@ -23,6 +23,7 @@
 [<img align="left" alt="Postgresql" width="26px" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=c34141" style="padding-right:10px;" />][github]
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][github]
 [<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />][github]
+[<img align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" style="padding-right:10px;" />][github]
 
 <br />
 <br />
