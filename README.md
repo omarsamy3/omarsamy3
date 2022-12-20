@@ -1,6 +1,6 @@
 ## I'm a Software Engineer in the AEC Industry!!👋
 
-- 🌱 I’m currently learning .Net technologies. 🤣
+- 🌱 I’m currently learning .Net technologies.
 - 👯 I’m looking to collaborate with other software engineers.
 - 🥅 2022 Goals: Learn more about software engineering.
 - ⚡ Fun fact: I love to travel, read and play football.
