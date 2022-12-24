@@ -1,4 +1,4 @@
-## I'm a Software Developer specified in Web Development using dot net technologies.!!👋
+## I'm a Full Stack developer using dot net technologies.!!👋
 
 - 🌱 I’m currently learning .Net technologies.
 - 👯 I’m looking to collaborate with other software engineers.
