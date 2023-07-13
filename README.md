@@ -35,12 +35,12 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
--  [recipes-angular-app] (https://github.com/omarsamy3/recipes-angular-app)
--  [forkify-food-app] (https://github.com/omarsamy3/forkify-food-app)
--  [Bay Bridge (CDE)] (https://github.com/omarsamy3/CDEITIProject)
--  [DXF-To-Revit Add-In] (https://github.com/omarsamy3/DXF_To_Revit)
--  [WebGL(three.js)] Application (https://github.com/omarsamy3/Three.js-Application)
--  [Computer Graphics projects] (https://github.com/omarsamy3/Computer-Graphics)
+-  [recipes-angular-app](https://github.com/omarsamy3/recipes-angular-app)
+-  [forkify-food-app](https://github.com/omarsamy3/forkify-food-app)
+-  [Bay Bridge (CDE)](https://github.com/omarsamy3/CDEITIProject)
+-  [DXF-To-Revit Add-In](https://github.com/omarsamy3/DXF_To_Revit)
+-  [WebGL(three.js)Application](https://github.com/omarsamy3/Three.js-Application)
+-  [Computer Graphics projects](https://github.com/omarsamy3/Computer-Graphics)
 
 <!--END_SECTION:activity-->
 
